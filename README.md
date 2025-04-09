@@ -3,12 +3,12 @@
 Avoid full-reload during HotReload
 
 ## Setup
- * `npm install vite-vue-template -D
+ * `npm install github:ICOWSOFT/vite-vue-template-html -D
 
  * `quasar.config.js` : header
 
 ```js
-import VueTemplateSrc from 'vite-vue-template-src'
+import VueTemplateSrc from 'vite-vue-template-html'
 ```
 
 * `quasar.config.js` : vitePlugins
