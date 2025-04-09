@@ -3,7 +3,7 @@
 Avoid full-reload during HotReload
 
 ## Setup
- * `npm install github:ICOWSOFT/vite-vue-template-html -D`
+ * `npm install git+https://github.com/ICOWSOFT/vite-vue-template-html.git -D`
 
  * `quasar.config.js` : header
 
