@@ -1,0 +1,19 @@
+{
+  "name": "vite-vue-template",
+  "version": "1.0.1",
+  "description": "Originaly from https://github.com/m310851010/vite-vue-template-src#readme",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.28",
+    "typescript": "^5.4.2",
+    "vite": "^6.0.0"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
