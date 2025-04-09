@@ -25,3 +25,8 @@ To build :
 ```bash
 npx tsc
 ```
+
+## Credits
+
+ * "author": "m310851010",
+ * "homepage": "https://github.com/m310851010/vite-vue-template-src#readme",
