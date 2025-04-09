@@ -2,10 +2,12 @@
   "name": "vite-vue-template-html",
   "version": "1.0.0",
   "description": "Avoid full-reload during HotReload",
-  "main": "src/index.js",
-  "types": "src/index.d.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "type": "module",
-  "scripts": {},
+  "scripts": {
+    "build": "tsc"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -14,5 +16,8 @@
     "vite": "^6.2.5",
     "typescript": "^5.8.3"
   },
+  "files": [
+    "dist/**/*"
+  ],
   "dependencies": {}
 }
