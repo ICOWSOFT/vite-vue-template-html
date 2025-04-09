@@ -1,19 +1,16 @@
 {
-  "name": "vite-vue-template",
-  "version": "1.0.1",
-  "description": "Originaly from https://github.com/m310851010/vite-vue-template-src#readme",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
-  "type": "module",
+  "name": "vite-vue-template-html",
+  "version": "1.0.0",
+  "description": "Avoid full-reload during HotReload",
+  "main": "index.js",
   "scripts": {
-    "build": "tsc"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
-    "@types/node": "^20.11.28",
-    "typescript": "^5.4.2",
-    "vite": "^6.0.0"
-  },
-  "files": [
-    "lib/**/*"
-  ]
+    "@types/node": "^22.14.0",
+    "vite": "^6.2.5"
+  }
 }
