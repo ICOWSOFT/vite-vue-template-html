@@ -17,3 +17,11 @@ import VueTemplateSrc from 'vite-vue-template-src'
 ​[VueTemplateSrc()],
 ```
 
+## Dev / Build
+
+If any change in the code, please build, then push (I know, it's not conventional)...
+
+To build :
+```bash
+npx tsc
+```
