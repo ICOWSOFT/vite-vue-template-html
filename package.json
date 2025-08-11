@@ -13,11 +13,10 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^24.2.1",
-    "vite": "^7.1.1",
-    "typescript": "^5.9.2"
+    "typescript": "^5.9.2",
+    "vite": "^7.1.1"
   },
   "files": [
     "dist/**/*"
-  ],
-  "dependencies": {}
+  ]
 }
