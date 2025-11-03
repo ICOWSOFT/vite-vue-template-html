@@ -26,6 +26,16 @@ To build :
 npx tsc
 ```
 
+# Upgrade
+
+```
+npx npm-check-updates -u
+npm install
+git add .
+git commit -m"Upgrade lib"
+git push
+```
+
 ## Credits
 
  * "author": "m310851010",
